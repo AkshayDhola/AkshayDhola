@@ -1,5 +1,5 @@
 ## Hi there 👋 how are you?
-<div style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+<div style="background-color: white; padding: 10px; border-radius: 5px;">
     <h2>Important Note</h2>
     <p>Please ensure you have all dependencies installed before running the project.</p>
 </div>
